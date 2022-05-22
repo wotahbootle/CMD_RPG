@@ -1,0 +1,2 @@
+# CMD_RPG
+Im still learning about programming, and right now im trying to create a mini RPG game like D&amp;D with consol based in aleatory numbers, like dices. I already did a menu with a simple character creation and im trying to make a system to choose your save and continue the game till your character dies. Every time you kill a monster you can use 1 point to upgrade one of the attributes and each class should have 3 basic skills.
